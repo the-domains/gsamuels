@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Sample text
-datePublished: '2015-11-13T03:54:55.524Z'
-dateModified: '2015-11-13T03:54:42.842Z'
+datePublished: '2015-11-13T04:04:52.136Z'
+dateModified: '2015-11-13T04:00:50.188Z'
 title: "Forget Passion, What's Your Reason for Being?"
 authors: []
 publisher:
