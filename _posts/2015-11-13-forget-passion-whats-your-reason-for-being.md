@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Forget passion, what's your reason for being?"
-datePublished: '2015-11-13T06:45:59.701Z'
-dateModified: '2015-11-13T06:45:54.638Z'
+datePublished: '2015-11-13T12:07:49.943Z'
+dateModified: '2015-11-13T10:10:00.776Z'
 title: Forget Passion
 sourcePath: _posts/2015-11-13-forget-passion-whats-your-reason-for-being.md
 published: true
@@ -34,3 +34,5 @@ This same element can be applied to job seeking (which I'm doing right now). It 
 So, based on your own experiences or interests, what does the world need (now or in the future) that only you can provide?
 
 Enjoy the journey :)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56da4fa0-924b-4ca4-82c4-f0c28c975fcc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ada9410f-9b12-4a84-99f7-2904eb85b527.jpg)
