@@ -1,0 +1,23 @@
+name: gsamuels
+favicon: null
+layout_spectrum: 0.08436680352315307
+typography_spectrum: 0.4944163481704891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24811967206187546
+  lightness: 0.6743022291921079
+  saturation: 0.44673660956323147
+  rhythmicContrast: 0.1577854563947767
+purpose: []
