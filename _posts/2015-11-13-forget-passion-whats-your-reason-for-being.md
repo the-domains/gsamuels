@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Sample text
-datePublished: '2015-11-13T06:40:59.423Z'
-dateModified: '2015-11-13T06:40:54.853Z'
-title: "Forget Passion, What's Your Reason for Being?"
+description: "Forget passion, what's your reason for being?"
+datePublished: '2015-11-13T06:45:59.701Z'
+dateModified: '2015-11-13T06:45:54.638Z'
+title: Forget Passion
+sourcePath: _posts/2015-11-13-forget-passion-whats-your-reason-for-being.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-13-forget-passion-whats-your-reason-for-being.md
-published: true
 url: forget-passion-whats-your-reason-for-being/index.html
 _type: Article
 
