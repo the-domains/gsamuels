@@ -1,7 +1,7 @@
 name: gsamuels
 favicon: null
 layout_spectrum: 0.08436680352315307
-typography_spectrum: 0.4944163481704891
+typography_spectrum: 0.23547
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#261a1e'
     - '#5b4b4c'
     - '#a2a5b1'
-  brandStrength: 0.24811967206187546
+  brandStrength: 0.25
   lightness: 0.6743022291921079
   saturation: 0.44673660956323147
-  rhythmicContrast: 0.1577854563947767
+  rhythmicContrast: 0.25
 purpose: []
